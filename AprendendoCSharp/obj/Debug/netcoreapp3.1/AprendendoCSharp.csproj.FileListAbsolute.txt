@@ -1,0 +1,16 @@
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.csproj.AssemblyReference.cache
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.AssemblyInfoInputs.cache
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.AssemblyInfo.cs
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.csproj.CoreCompileInputs.cache
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\AprendendoCSharp.exe
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\AprendendoCSharp.deps.json
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\AprendendoCSharp.runtimeconfig.json
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\AprendendoCSharp.runtimeconfig.dev.json
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\AprendendoCSharp.dll
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\AprendendoCSharp.pdb
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.csproj.CopyComplete
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.dll
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.pdb
+C:\el\Curso\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.1\AprendendoCSharp.genruntimeconfig.cache
